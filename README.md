@@ -1,84 +1,72 @@
+# 👋 Olá! Eu sou o Paulo
+
+💻 Estudante de Desenvolvimento | 🌐 Front-End | 🚀 Em busca de oportunidades na área de TI
+
+---
+
+## 🧑‍💻 Sobre mim
+
+🎓 Sou aluno da **ETEC de Guarulhos**, estudando e desenvolvendo minhas habilidades na área de tecnologia.
+
+🌐 Tenho interesse principalmente em **desenvolvimento web**, criando e estilizando sites utilizando:
+
+- 🟠 HTML
+- 🔵 CSS
+- 🟡 JavaScript
+
+🚀 Atualmente estou buscando minha **primeira oportunidade profissional na área de TI**, onde eu possa colocar meus conhecimentos em prática, aprender com profissionais da área e continuar evoluindo como desenvolvedor.
+
+💡 Gosto de aprender na prática, criar projetos e transformar ideias em páginas e aplicações funcionais.
+
+---
+
+## 🛠️ Tecnologias
+
 <div align="center">
 
-# 👋 Olá, eu sou Paulinho
-
-### 💻 Tecnologia • 🌷 Floricultura • 🚀 Inovação
-
-<img src="./banner.png" alt="Banner Paulinho"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 🌐 Desenvolvimento Web
 
-💻 Trabalho com Tecnologia da Informação
+Atualmente meus principais conhecimentos estão em:
 
-🌷 Atuo também na área de Floricultura
+```text
+HTML        ████████████████████  90%
+CSS         ██████████████████░░  80%
+JavaScript  ███████████████░░░░░  70%
+Git/GitHub  ██████████████░░░░░░  65%
 
-📚 Sempre aprendendo novas tecnologias
+O que estou buscando
 
-🎯 Buscando crescimento profissional e novos desafios
+🎯 Oportunidade de estágio, jovem aprendiz ou primeira experiência profissional em TI.
 
-✨ Transformando ideias em código e cultivando o que realmente importa.
+Tenho interesse em oportunidades relacionadas a:
 
----
+💻 Desenvolvimento Web
+🎨 Front-End
+🧑‍💻 Desenvolvimento de Sistemas
+🛠️ Suporte e Tecnologia
+🌐 Criação de Sites
 
-## 🛠️ Tecnologias & Ferramentas
+Estou sempre disposto a aprender novas tecnologias e contribuir com a equipe.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,mysql,linux" />
-</p>
+📂 Projetos
 
----
+Aqui no meu GitHub você pode encontrar meus projetos, exercícios e experiências com desenvolvimento web.
 
-## 📊 Estatísticas GitHub
+⭐ Estou sempre buscando melhorar meus projetos e aprender novas tecnologias.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-## 🌐 Conecte-se comigo
-
-<p align="center">
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulinhokun8-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinhokun8-afk&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+📫 Contato
+<div align="center"> <a href="https://github.com/paulinhokun8-afk"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </div>
 <div align="center">
+🚀 Sempre aprendendo. Sempre evoluindo.
 
-### ✨ "Transformando ideias em código e cultivando o que realmente importa."
+Obrigado por visitar meu perfil! 👋
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blueviolet"/>
-
-</div>
+</div> ```
